@@ -2,11 +2,7 @@
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh Mohammad Nazmul Hasan
 
-My journey in web development has allowed me to master the intricacies of the Front-End Development, enabling me to build dynamic, responsive, and interactive web solutions. I thrive on challenges and love tackling complex problems, turning them into elegant and scalable code.
-
-In my career, I've had the privilege of working on diverse projects, from e-commerce platforms to content management systems, all aimed at delivering a seamless user experience. My passion for clean, maintainable code and my commitment to keeping up with the latest industry trends make me a valuable asset in any development team.
-
-Beyond the technical aspects, I value effective communication, teamwork, and a user-centric approach. My goal is to collaborate with like-minded professionals and organizations that appreciate the importance of technology in achieving their goals.
+Hi, I'm Sheikh Mohammad Nazmul Hasan, a detail-oriented Front-End Developer. My passion lies in crafting pixel-perfect user interfaces that seamlessly blend creativity with functionality. From concept to deployment, I thrive on turning ideas into immersive digital experiences. Let's build the future together!
 
 :coffee: &emsp;Connect with me!
 
