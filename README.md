@@ -1,4 +1,4 @@
-![Github Banner](assets/github-banner.jpg)
+
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh Mohammad Nazmul Hasan
 
