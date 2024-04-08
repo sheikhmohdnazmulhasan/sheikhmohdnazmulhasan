@@ -2,7 +2,7 @@
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh Mohammad Nazmul Hasan
 
-Hi, I'm Sheikh Mohammad Nazmul Hasan, a detail-oriented Front-End Developer. My passion lies in crafting pixel-perfect user interfaces that seamlessly blend creativity with functionality. From concept to deployment, I thrive on turning ideas into immersive digital experiences. Let's build the future together!
+Hi, I'm Sheikh Mohammad Nazmul Hasan, a detail-oriented full-stack Developer. My passion lies in crafting pixel-perfect user interfaces that seamlessly blend creativity with functionality. From concept to deployment, I thrive on turning ideas into immersive digital experiences. Let's build the future together!
 
 :coffee: &emsp;Connect with me!
 
