@@ -29,7 +29,7 @@ With a strong foundation in web development, I am poised to embark on an excitin
 ![Static Badge](https://img.shields.io/badge/Mongoose-%23A13434?style=for-the-badge&logo=mongoose&labelColor=dark&color=%23A13434)
 ![Static Badge](https://img.shields.io/badge/%20Prisma-%2321AF90?style=for-the-badge&logo=Prisma&labelColor=%23226068&color=%2321AF90)
 ![Static Badge](https://img.shields.io/badge/%20Docker-%234CEDEA?style=for-the-badge&logo=Docker&labelColor=white&color=%234CEDEA)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
+<!--[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) -->
 <!-- [![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](#) -->
