@@ -2,9 +2,9 @@
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh Mohammad Nazmul Hasan
 
-Hello, I'm Sheikh Mohammad Nazmul Hasan, a passionate full-stack web developer with a vision for innovation and growth in the tech industry. Currently serving as the co-founder of Intellitix Technology, a dynamic IT firm based in Dubai, I am dedicated to driving forward-thinking solutions and fostering digital transformation.
+Full Stack Developer with a strong foundation in both frontend and backend technologies, focused on creating high-performance, scalable web applications. My technical skill set includes JavaScript, TypeScript, React.js, Node.js, and databases like MongoDB and PostgreSQL. I am well-versed in frameworks and libraries such as Next.js, Express.js, and Tailwind CSS, allowing me to build responsive, efficient, and user-friendly applications.
 
-With a strong foundation in web development, I am poised to embark on an exciting journey towards becoming a proficient machine learning engineer. My goal is to harness the power of AI and data science to create impactful solutions that shape the future of technology.
+In my free time, I enjoy contributing to open-source projects and staying updated on the latest trends in web development. If you're looking for a dedicated developer with a passion for innovation, I'd love to connect and discuss how I can help your next project succeed.
 
 :coffee: &emsp;Connect with me!
 
