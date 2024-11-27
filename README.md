@@ -14,7 +14,7 @@ With a strong foundation in web development, I am poised to embark on an excitin
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nazmulofficial)
 
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+<!-- :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Project ideas and executions.<br/>
 
