@@ -16,7 +16,7 @@ In my free time, I enjoy contributing to open-source projects and staying update
 
 <!-- :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding Project ideas and executions.<br/>
+🤔 &emsp;I’m looking for people who can help me with Outstanding Project ideas and executions.<br/> -->
 
 #### Things I code with
 
@@ -35,14 +35,14 @@ In my free time, I enjoy contributing to open-source projects and staying update
 [![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
 
 
-<!--[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) -->
+<!--[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 <!-- [![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](#) -->
 <!-- [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) -->
 
 
 <!-- ![Static Badge](https://img.shields.io/badge/%20Docker-%234CEDEA?style=for-the-badge&logo=Docker&labelColor=white&color=%234CEDEA) -->
 
-<!-- #### Correct Status
+#### Correct Status
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sheikhmohdnazmulhasan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
