@@ -2,9 +2,11 @@
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh Mohammad Nazmul Hasan
 
-A Full Stack Developer with strong foundation in both frontend and backend technologies, focused on creating high-performance, scalable web applications. My technical skill set includes JavaScript, TypeScript, React.js, Node.js, and databases like MongoDB and PostgreSQL. I am well-versed in frameworks and libraries such as Next.js, Express.js, and Tailwind CSS.
+A Full Stack Developer who doesn't know everything. Dedicated to developing high-performance, scalable web applications with a strong emphasis on building robust, user-centric solutions that drive real business impact.
 
 In my free time, I enjoy contributing to open-source projects and staying updated on the latest trends in web development. Additionally, I’m passionate about identifying the challenges developers face and creating npm packages to simplify complexities and support the developer community.
+
+Currently, I’m learning Machine Learning, exploring its potential to build intelligent and data-driven applications.
 
 :coffee: &emsp;Connect with me!
 
