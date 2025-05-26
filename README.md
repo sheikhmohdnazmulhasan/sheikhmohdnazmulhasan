@@ -2,13 +2,11 @@
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh Mohammad Nazmul Hasan
 
-A Full Stack Developer who doesn't know everything. Dedicated to developing high-performance, scalable web applications with a strong emphasis on building robust, user-centric solutions that drive real business impact.
+A Full Stack Developer focused on building high-performance, scalable web applications with robust and user-centric solutions. Harnessing data and developing intelligence through AI, ML, and custom software to deliver real-world business impact.
 
-In my free time, I enjoy contributing to open-source projects and staying updated on the latest trends in web development. Additionally, I’m passionate about identifying the challenges developers face and creating npm packages to simplify complexities and support the developer community.
+In my free time, I enjoy contributing to open-source projects and staying updated on the latest trends in web development and AI. Additionally, I’m passionate about identifying the challenges developers face and creating npm packages to simplify complexities and support the developer community.
 
-Currently, I’m learning Machine Learning, exploring its potential to build intelligent and data-driven applications.
-
-:coffee: &emsp;Connect || Explore
+:coffee: &emsp;Connect with me
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sheikhmohdnazmulhasan)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikhmohdnazmulhasan/)
