@@ -1,6 +1,6 @@
 
 
-## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh Mohammad Nazmul Hasan
+## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh
 
 Building scalable, practical, and intelligent solutions. 
 
