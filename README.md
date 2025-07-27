@@ -2,9 +2,11 @@
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh Mohammad Nazmul Hasan
 
-A Full Stack Developer focused on building high-performance, scalable web applications with robust and user-centric solutions. Harnessing data and developing intelligence through AI, ML, and custom software to deliver real-world business impact.
+Building scalable, practical, and intelligent solutions. 
 
-In my free time, I enjoy contributing to open-source projects and staying updated on the latest trends in web development and AI. Additionally, I’m passionate about identifying the challenges developers face and creating npm packages to simplify complexities and support the developer community.
+Zealous about identifying challenges developers face and creating npm packages to simplify development and support the developer community.
+
+Currently focused on Al automation to streamline workflows and unlock new possibilities.
 
 :coffee: &emsp;Connect with me
 
