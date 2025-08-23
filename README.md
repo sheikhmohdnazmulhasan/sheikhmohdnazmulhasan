@@ -1,6 +1,6 @@
 
 
-## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh
+<!-- ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh -->
 
 A Full Stack Web Application Developer enthusiastic about identifying developer challenges and creating npm packages that simplify development while supporting the community.
 
