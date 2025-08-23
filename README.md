@@ -2,11 +2,9 @@
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh
 
-Building scalable, practical, and intelligent solutions. 
+A Full Stack Web Application Developer enthusiastic about identifying developer challenges and creating npm packages that simplify development while supporting the community.
 
-Zealous about identifying challenges developers face and creating npm packages to simplify development and support the developer community.
-
-Currently focused on Al automation to streamline workflows and unlock new possibilities.
+Currently focus on AI automation and agentic workflows, helping businesses save time and reduce costs by eliminating repetitive tasks.
 
 <!-- :coffee: &emsp;Connect with me
 
