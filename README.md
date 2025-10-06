@@ -2,7 +2,7 @@
 
 <!-- ## Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Sheikh -->
 
-A Full Stack Web Application Developer enthusiastic about identifying developer challenges and creating npm packages, browser extensions, and VSCode extensions that simplify development and support the community.
+A Full Stack Web Application Developer enthusiastic about identifying developer challenges and creating npm packages, browser extensions, and VSCode extensions that simplify development and support the community. Contributing to open-source projects to validate skillset.
 
 Currently focused on AI automation and agentic workflows, helping businesses save time and reduce costs by eliminating repetitive tasks.
 
